@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Daodu Destiny Oluwatobiloba</h1>
-<h3 align="center">Daodu Destiny (also known as Young or Tobi) is a frontend developer specializing in building hyper-accessible, high-performance, and beautifully animated web interfaces. Combining a minimalist dark-themed design aesthetic with advanced motion systems, He focuses on creating sleek, easily navigable layouts. Currently a student of Computer Science and Economics at Obafemi Awolowo University, Destiny actively works on scaling high-performance production platforms while maintaining a disciplined weekly routine as a competitive Taekwondo martial artist.</h3>
+<h3 align="center">Daodu Destiny (also known as Young or Tobi) is a software engineer specializing in building high-performance, hyper-accessible production applications and fluid, motion-driven user interfaces. He focuses on architecting sleek, minimalist dark-themed systems that combine robust frontend engineering with advanced animation mechanics. Currently studying Computer Science and Economics at Obafemi Awolowo University, Destiny actively builds and scales optimized digital infrastructure while maintaining a disciplined weekly routine as a competitive Taekwondo martial artist.</h3>
 
 - 🔭 I’m currently working on [proof](https://github.com/daodudestiny56-netizen/proof-)
 
